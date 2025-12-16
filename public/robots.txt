@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://igp-ventures.com/sitemap.xml
